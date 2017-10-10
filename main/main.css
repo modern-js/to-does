@@ -124,7 +124,7 @@ li > .delete:hover {
 /* COMPLETED TASK */
 #complete-tasks label {
 	text-decoration: line-through;
-	color: #888;
+	color: #888888;
 }
 
 
